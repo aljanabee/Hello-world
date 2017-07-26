@@ -1,2 +1,6 @@
 # Hello-world
-1. code
+
+
+Hello everyone
+
+my name is shams i am new to coding
